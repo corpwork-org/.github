@@ -5,12 +5,7 @@ This organization aims to automate the provisioning of Software as a Service, ap
 ## Board
 
 > [!NOTE]  
-> All strategic planning, backlog prioritization, and workflow tracking are managed through our **[GitHub Projects Board](https://github.com/orgs/Corpwork-Organization/projects/1)**. The board reflects our current roadmap, active initiatives, and delivery pipeline to ensure transparency and continuous improvement.
-
-## Documentation
-
-> [!NOTE]  
-> All technical documentation, architectural decisions, standards, and operational guidelines are maintained within the organization repositories. Full documentation is available in our **[Wiki](https://github.com/Corpwork-Organization/corpwork-docs/wiki)**. We follow structured documentation practices to ensure clarity, traceability, and alignment with industry standards.
+> All strategic planning, backlog prioritization, and workflow tracking are managed through our **[GitHub Projects Board](https://github.com/orgs/corpwork-org/projects/1)**. The board reflects our current roadmap, active initiatives, and delivery pipeline to ensure transparency and continuous improvement.
 
 ## Team
 
